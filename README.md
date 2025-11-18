@@ -1,7 +1,7 @@
 # Terraform Backend Setup with EC2 Instance
 
 This project demonstrates how to set up a **remote backend** in Terraform using **AWS S3** for state storage and **DynamoDB** for state locking, along with launching an **EC2 instance**.  
-This is the recommended and industry-standard way to manage Terraform state safely.
+This is the recommended and industry standard way to manage Terraform state safely.
 
 ---
 
